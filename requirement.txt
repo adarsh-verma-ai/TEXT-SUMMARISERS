@@ -1,0 +1,7 @@
+numpy
+pandas
+python-dotenv
+agno
+openai>=1.0.0
+youtube-transcript-api
+pytube
