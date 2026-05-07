@@ -122,11 +122,9 @@ pytube
 ## 👤 Author
 
 **Adarsh Verma**
-- LinkedIn: [linkedin.com/in/adarshverma-84499b394](https://www.linkedin.com/in/adarshverma-84499b394)
-- GitHub: [github.com/your-username](https://github.com/your-username)
+- LinkedIn: [linkedin.com/in/adarshverma-84499b394](https://www.linkedin.com/in/adarsh-verma-84499b394/)
+- GitHub: [github.com/your-username](https://github.com/adarsh-verma-ai)
 
 ---
 
-## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
